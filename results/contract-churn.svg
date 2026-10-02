@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+  <title id="title">Churn rate by contract type</title>
+  <desc id="desc">Month-to-month 42.7 percent, one year 11.3 percent, two year 2.8 percent.</desc>
+  <rect width="760" height="320" fill="#fff"/>
+  <text x="28" y="38" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#19324a">Churn rate by contract</text>
+  <text x="28" y="64" font-family="Arial,sans-serif" font-size="14" fill="#526170">Percent of customers who left</text>
+  <g font-family="Arial,sans-serif" font-size="16" fill="#263747">
+    <text x="28" y="115">Month-to-month</text>
+    <text x="28" y="183">One year</text>
+    <text x="28" y="251">Two year</text>
+  </g>
+  <g fill="#e8edf1">
+    <rect x="194" y="91" width="500" height="34" rx="5"/>
+    <rect x="194" y="159" width="500" height="34" rx="5"/>
+    <rect x="194" y="227" width="500" height="34" rx="5"/>
+  </g>
+  <rect x="194" y="91" width="427" height="34" rx="5" fill="#dc5b5b"/>
+  <rect x="194" y="159" width="113" height="34" rx="5" fill="#f0ad4e"/>
+  <rect x="194" y="227" width="28" height="34" rx="5" fill="#4c9a7d"/>
+  <g font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#19324a">
+    <text x="633" y="115">42.7%</text>
+    <text x="319" y="183">11.3%</text>
+    <text x="234" y="251">2.8%</text>
+  </g>
+  <text x="194" y="293" font-family="Arial,sans-serif" font-size="12" fill="#657584">Bars scaled from 0% to 50%</text>
+</svg>
